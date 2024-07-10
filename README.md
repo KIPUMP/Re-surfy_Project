@@ -18,6 +18,9 @@
 | 정윤주 | 상세 페이지 설계 및 구현 |
 | 최기범 | 메인 페이지 설계 및 구현 |
 
+## ✨Project Architecture✨
+![스크린샷 2024-07-10 202113](https://github.com/KIPUMP/Re-surfy_Project/assets/86760876/78422f83-d195-4dee-b9bc-be0e17570f37)
+
 ## ✨ERD✨
 ![스크린샷 2024-01-17 120736](https://github.com/KIPUMP/Re-surfy_Project/assets/86760876/f04ac3fc-ceda-4d5b-836f-b67f25ea0758)
 
