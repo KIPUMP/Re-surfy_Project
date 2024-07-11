@@ -3,7 +3,7 @@
 
 
 
-https://github.com/KIPUMP/Re-surfy_Project/assets/86760876/24d691e3-958f-4594-893f-82b43f635635
+<img src="https://github.com/KIPUMP/Re-surfy_Project/assets/86760876/24d691e3-958f-4594-893f-82b43f635635">
 
 
 
