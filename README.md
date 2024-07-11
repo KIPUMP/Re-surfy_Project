@@ -1,13 +1,8 @@
 # Re-surfy
 #### 레시피 공유 커뮤니티 및 재료 쇼핑 중개 사이트 
 
-
-
-
-<div width = "100%">
-https://github.com/KIPUMP/Re-surfy_Project/assets/86760876/7c74e194-66dc-4413-abeb-bfefc46dbc62
-</div>
-
+## ✨Main page✨
+https://github.com/KIPUMP/Re-surfy_Project/assets/86760876/fceae9b4-294d-496a-9d4c-acc63517930c
 
 
 ## ✨Tech✨
