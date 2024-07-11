@@ -1,6 +1,12 @@
 # Re-surfy
 #### 레시피 공유 커뮤니티 및 재료 쇼핑 중개 사이트 
 
+
+
+https://github.com/KIPUMP/Re-surfy_Project/assets/86760876/24d691e3-958f-4594-893f-82b43f635635
+
+
+
 ## ✨Tech✨
 ![스크린샷 2024-01-17 115432](https://github.com/KIPUMP/Re-surfy_Project/assets/86760876/8e1e746a-d3bb-4818-8520-f2ad8fc436d7)
 - [Language] - Java
@@ -31,8 +37,7 @@
 ## ✨Class Diagram(Recipe)✨
 ![스크린샷 2024-01-17 120857](https://github.com/KIPUMP/Re-surfy_Project/assets/86760876/67d729a3-18d4-49e5-aa96-1409253ef559)
 
-## ✨Main page.mov✨
-<img src = ""C:\Users\user\Downloads\메인페이지 (online-video-cutter.com).gif"">
+
 
 
 
