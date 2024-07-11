@@ -3,10 +3,11 @@
 
 ## ✨Tech✨
 ![스크린샷 2024-01-17 115432](https://github.com/KIPUMP/Re-surfy_Project/assets/86760876/8e1e746a-d3bb-4818-8520-f2ad8fc436d7)
-- [Server] - Spring framework(Java)
-- [DB] - Oracle Database
-- [UI/UX] - HTML/CSS/Javascript/Bootstrap
-- [Etc.] = Jira/Figma
+- [Language] - Java
+- [Server] - Spring, MyBatis
+- [Database] - Oracle Database
+- [Client] - HTML/CSS/Javascript/Bootstrap
+- [Etc.] = Jira/Figma/Git
 
 ## ✨Team Role✨
 팀원 5명과 프로젝트를 진행하였고, 개발 단위는 페이지 단위로 분리하였습니다.
@@ -29,6 +30,8 @@
 
 ## ✨Class Diagram(Recipe)✨
 ![스크린샷 2024-01-17 120857](https://github.com/KIPUMP/Re-surfy_Project/assets/86760876/67d729a3-18d4-49e5-aa96-1409253ef559)
+
+## ✨Main page.mov✨
 
 
 
