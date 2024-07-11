@@ -32,7 +32,7 @@
 ![스크린샷 2024-01-17 120857](https://github.com/KIPUMP/Re-surfy_Project/assets/86760876/67d729a3-18d4-49e5-aa96-1409253ef559)
 
 ## ✨Main page.mov✨
-
+<img src = ""C:\Users\user\Downloads\메인페이지 (online-video-cutter.com).gif"">
 
 
 
