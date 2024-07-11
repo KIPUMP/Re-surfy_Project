@@ -3,8 +3,8 @@
 
 ## ✨Main page✨
 https://github.com/KIPUMP/Re-surfy_Project/assets/86760876/fceae9b4-294d-496a-9d4c-acc63517930c
----
 
+---
 ## ✨Tech✨
 ![스크린샷 2024-01-17 115432](https://github.com/KIPUMP/Re-surfy_Project/assets/86760876/8e1e746a-d3bb-4818-8520-f2ad8fc436d7)
 - [Language] - Java
