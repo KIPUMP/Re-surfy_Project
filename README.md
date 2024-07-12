@@ -13,11 +13,6 @@ https://github.com/user-attachments/assets/c0181478-6285-4363-b9e4-45e51771832b
 
 ## ✨Tech✨
 ![스크린샷 2024-01-17 115432](https://github.com/KIPUMP/Re-surfy_Project/assets/86760876/8e1e746a-d3bb-4818-8520-f2ad8fc436d7)
-- [Language] - Java
-- [Server] - Spring, MyBatis
-- [Database] - Oracle Database
-- [Client] - HTML/CSS/Javascript/Bootstrap
-- [Etc.] = Jira/Figma/Git
 
 ---
 
