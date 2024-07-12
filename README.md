@@ -6,7 +6,7 @@ https://github.com/KIPUMP/Re-surfy_Project/assets/86760876/fceae9b4-294d-496a-9d
 
 ---
 
-## ✨Main page✨
+## ✨Login✨
 https://github.com/user-attachments/assets/c0181478-6285-4363-b9e4-45e51771832b
 
 ---
