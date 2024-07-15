@@ -1,5 +1,5 @@
 # Re-surfy
-#### 레시피 공유 커뮤니티 및 재료 쇼핑 중개 사이트 
+#### 레시피와 재료 쇼핑을 한곳에 : 요리 커뮤니티 플랫폼
 
 ## ✨Main page✨
 https://github.com/KIPUMP/Re-surfy_Project/assets/86760876/fceae9b4-294d-496a-9d4c-acc63517930c
