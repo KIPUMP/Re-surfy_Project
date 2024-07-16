@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/c0181478-6285-4363-b9e4-45e51771832b
 ---
 
 ## ✨Project Architecture✨
-![스크린샷 2024-07-11 164020](https://github.com/KIPUMP/Re-surfy_Project/assets/86760876/e7e161bb-97ff-48d9-95c4-2ddd36bbf5c6)
+![스크린샷 2024-07-16 194718](https://github.com/user-attachments/assets/0b26977f-2e0c-4755-b87a-b34626d278b9)
 
 ---
 ## ✨ERD✨
