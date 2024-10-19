@@ -49,6 +49,23 @@ https://github.com/user-attachments/assets/c0181478-6285-4363-b9e4-45e51771832b
   <summary>Recipe</summary>
   
 ![recipe drawio](https://github.com/user-attachments/assets/7c5f1c62-b3bd-43b4-bf9f-15435f525d1a)
+
+<summary>Reply</summary>
+  
+![reply drawio](https://github.com/user-attachments/assets/f19dd879-502c-4455-a8f9-aad45089cf26)
+
+
+<summary>User</summary>
+  
+![user drawio](https://github.com/user-attachments/assets/f319f3ec-b78b-4bd0-82d3-ab80601e6e42)
+
+<summary>Own</summary>
+  
+![own drawio](https://github.com/user-attachments/assets/e9743f4c-db00-4c78-adaf-2d908869db5e)
+
+<summary>Cart</summary>
+
+![cart drawio](https://github.com/user-attachments/assets/9d346e8e-06d1-4b42-8f3d-fcb57fc29cca)
 </details>
 
 
