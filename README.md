@@ -1,8 +1,16 @@
 # Re-surfy
 #### 레시피와 재료 쇼핑을 한곳에 : 요리 커뮤니티 플랫폼
 
-## 농림수산식품교육문화정보원에서 제공하고 있는 레시피 데이터 활용
+#### 농림수산식품교육문화정보원에서 제공하고 있는 레시피 데이터 활용
 
+'''
+레시피 기본 정보
+https://www.data.go.kr/data/15057205/openapi.do
+• 레시피 과정 정보
+https://www.data.go.kr/data/15056535/openapi.do
+• 레시피 재료 정보
+https://www.data.go.kr/data/15058981/openapi.do
+'''
 
 
 ## ✨Main page✨
