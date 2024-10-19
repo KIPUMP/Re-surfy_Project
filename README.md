@@ -1,6 +1,10 @@
 # Re-surfy
 #### 레시피와 재료 쇼핑을 한곳에 : 요리 커뮤니티 플랫폼
 
+## 농림수산식품교육문화정보원에서 제공하고 있는 레시피 데이터 활용
+
+
+
 ## ✨Main page✨
 https://github.com/KIPUMP/Re-surfy_Project/assets/86760876/fceae9b4-294d-496a-9d4c-acc63517930c
 
@@ -43,9 +47,10 @@ https://github.com/user-attachments/assets/c0181478-6285-4363-b9e4-45e51771832b
 ## ✨Class Diagram✨
 <details>
   <summary>Recipe</summary>
-  ![스크린샷 2024-01-17 120857](https://github.com/KIPUMP/Re-surfy_Project/assets/86760876/67d729a3-18d4-49e5-aa96-1409253ef559)
+  
+![recipe drawio](https://github.com/user-attachments/assets/7c5f1c62-b3bd-43b4-bf9f-15435f525d1a)
 </details>
-결과:
+
 
 
 
